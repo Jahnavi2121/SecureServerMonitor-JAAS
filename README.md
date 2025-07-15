@@ -102,14 +102,3 @@ SecureServerMonitor-JAAS/
 - Add logging and audit trails for each user operation
 
 ---
-
-## License
-
-This project is licensed under the MIT License.
-
----
-
-## Author
-
-[Your Name]  
-Developed for academic demonstration of secure architecture implementation using JAAS.
